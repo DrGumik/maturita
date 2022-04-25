@@ -7,7 +7,7 @@
     <a href="https://github.com/DrGumik/maturita">
       <img src="https://img.shields.io/static/v1?label=DrGumik&message=maturita&color=yellow&logo=github" alt="DrGumik - maturita">
     </a>
-    <a href="#license"><img src="https://img.shields.io/badge/License-MIT-blueviolet" alt="License"></a>
+    <a href="https://github.com/DrGumik/maturita/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet" alt="License"></a>
    </p>
 </p>
 
