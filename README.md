@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Maturita - praktická zkouška</h1>
+  <h1 align="center">SPŠ a VOŠ Chomutov - Maturitní praktická zkouška (Programování)</h1>
   
   <br />
 
