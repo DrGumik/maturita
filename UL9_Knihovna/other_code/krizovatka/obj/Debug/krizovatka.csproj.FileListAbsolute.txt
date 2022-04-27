@@ -1,0 +1,28 @@
+C:\Users\Sířa\Desktop\Křižovatka\křižovatka\krizovatka_siriste\krizovatka_siriste\bin\Debug\krizovatka_siriste.exe.config
+C:\Users\Sířa\Desktop\Křižovatka\křižovatka\krizovatka_siriste\krizovatka_siriste\bin\Debug\krizovatka_siriste.exe
+C:\Users\Sířa\Desktop\Křižovatka\křižovatka\krizovatka_siriste\krizovatka_siriste\bin\Debug\krizovatka_siriste.pdb
+C:\Users\Sířa\Desktop\Křižovatka\křižovatka\krizovatka_siriste\krizovatka_siriste\obj\Debug\krizovatka_siriste.csprojResolveAssemblyReference.cache
+C:\Users\Sířa\Desktop\Křižovatka\křižovatka\krizovatka_siriste\krizovatka_siriste\obj\Debug\krizovatka_siriste.Form1.resources
+C:\Users\Sířa\Desktop\Křižovatka\křižovatka\krizovatka_siriste\krizovatka_siriste\obj\Debug\krizovatka_siriste.Properties.Resources.resources
+C:\Users\Sířa\Desktop\Křižovatka\křižovatka\krizovatka_siriste\krizovatka_siriste\obj\Debug\krizovatka_siriste.csproj.GenerateResource.Cache
+C:\Users\Sířa\Desktop\Křižovatka\křižovatka\krizovatka_siriste\krizovatka_siriste\obj\Debug\krizovatka_siriste.exe
+C:\Users\Sířa\Desktop\Křižovatka\křižovatka\krizovatka_siriste\krizovatka_siriste\obj\Debug\krizovatka_siriste.pdb
+C:\Users\tomsova.nela24\Desktop\krizovatka\krizovatka\bin\Debug\krizovatka.exe.config
+C:\Users\tomsova.nela24\Desktop\krizovatka\krizovatka\bin\Debug\krizovatka.exe
+C:\Users\tomsova.nela24\Desktop\krizovatka\krizovatka\bin\Debug\krizovatka.pdb
+C:\Users\tomsova.nela24\Desktop\krizovatka\krizovatka\obj\Debug\krizovatka.csprojAssemblyReference.cache
+C:\Users\tomsova.nela24\Desktop\krizovatka\krizovatka\obj\Debug\krizovatka.Form1.resources
+C:\Users\tomsova.nela24\Desktop\krizovatka\krizovatka\obj\Debug\krizovatka.Properties.Resources.resources
+C:\Users\tomsova.nela24\Desktop\krizovatka\krizovatka\obj\Debug\krizovatka.csproj.GenerateResource.cache
+C:\Users\tomsova.nela24\Desktop\krizovatka\krizovatka\obj\Debug\krizovatka.csproj.CoreCompileInputs.cache
+C:\Users\tomsova.nela24\Desktop\krizovatka\krizovatka\obj\Debug\krizovatka.exe
+C:\Users\tomsova.nela24\Desktop\krizovatka\krizovatka\obj\Debug\krizovatka.pdb
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL8_Krizovatka\Nela\krizovatka\krizovatka\bin\Debug\krizovatka.exe.config
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL8_Krizovatka\Nela\krizovatka\krizovatka\bin\Debug\krizovatka.exe
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL8_Krizovatka\Nela\krizovatka\krizovatka\bin\Debug\krizovatka.pdb
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL8_Krizovatka\Nela\krizovatka\krizovatka\obj\Debug\krizovatka.csprojAssemblyReference.cache
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL8_Krizovatka\Nela\krizovatka\krizovatka\obj\Debug\krizovatka.Form1.resources
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL8_Krizovatka\Nela\krizovatka\krizovatka\obj\Debug\krizovatka.Properties.Resources.resources
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL8_Krizovatka\Nela\krizovatka\krizovatka\obj\Debug\krizovatka.csproj.GenerateResource.cache
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL8_Krizovatka\Nela\krizovatka\krizovatka\obj\Debug\krizovatka.exe
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL8_Krizovatka\Nela\krizovatka\krizovatka\obj\Debug\krizovatka.pdb
