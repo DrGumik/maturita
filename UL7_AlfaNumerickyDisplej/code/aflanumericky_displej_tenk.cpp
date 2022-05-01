@@ -13,7 +13,7 @@
 #define P1OUT 0x300
 #define P2OUT 0x301
 
-char text[1024]; // Pole pro zadavany text (128 bajtu)
+char text[1024]; // Pole pro zadavany text
 
 // Prelozi pozadovany znak na hex. cislo, pro zadany displej (7/14 segmentovy)
 int charToHex(int dispType, char wantedChar)
