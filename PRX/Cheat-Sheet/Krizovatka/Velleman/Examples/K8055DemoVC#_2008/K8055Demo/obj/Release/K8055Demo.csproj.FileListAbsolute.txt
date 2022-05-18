@@ -1,0 +1,4 @@
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\Release\K8055Demo.Form1.resources
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\Release\K8055Demo.Properties.Resources.resources
+C:\Users\Asentaja\Documents\Programming\C#2008\K8055DemoVC#_2008\K8055Demo\obj\Release\K8055Demo.csproj.GenerateResource.Cache

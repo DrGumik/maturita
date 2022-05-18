@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\jakub\OneDrive\Plocha\K_odevzdani</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>32</LINE></start>
+  <timer2_int><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>130</LINE></timer2_int>
+  <timer0_int><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>111</LINE></timer0_int>
+  <init_timer0><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>176</LINE></init_timer0>
+  <init_disp_patterns><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>199</LINE></init_disp_patterns>
+  <init_key_patterns><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>213</LINE></init_key_patterns>
+  <main><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>57</LINE></main>
+  <patterns_key_beg><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>259</LINE></patterns_key_beg>
+  <patterns_key_column_end><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>254</LINE></patterns_key_column_end>
+  <patterns_key_column_beg><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>250</LINE></patterns_key_column_beg>
+  <loop><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>67</LINE></loop>
+  <delay><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>227</LINE></delay>
+  <key_id><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>72</LINE></key_id>
+  <continue><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>79</LINE></continue>
+  <key_pushed><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>87</LINE></key_pushed>
+  <key_pushed_cont><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>91</LINE></key_pushed_cont>
+  <start_display><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>95</LINE></start_display>
+  <int_return><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>163</LINE></int_return>
+  <tick><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>148</LINE></tick>
+  <init_timer2><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>185</LINE></init_timer2>
+  <patterns__disp_beg><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>241</LINE></patterns__disp_beg>
+  <loading_disp><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>205</LINE></loading_disp>
+  <loading_key><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>219</LINE></loading_key>
+  <L1><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>230</LINE></L1>
+  <patterns__disp_end><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>247</LINE></patterns__disp_end>
+  <patterns_key_end><FILE>C:\Users\jakub\OneDrive\Plocha\K_odevzdani\Matic_Displej_Tenk.asm</FILE><LINE>263</LINE></patterns_key_end>
+ </LABELS>
+</ASSEMBLER_INFO>

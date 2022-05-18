@@ -1,0 +1,21 @@
+C:\Users\tenk.jakub23\Desktop\v1\library_tenk\bin\Debug\library_tenk.exe.config
+C:\Users\tenk.jakub23\Desktop\v1\library_tenk\bin\Debug\library_tenk.exe
+C:\Users\tenk.jakub23\Desktop\v1\library_tenk\bin\Debug\library_tenk.pdb
+C:\Users\tenk.jakub23\Desktop\v1\library_tenk\obj\Debug\library_tenk.csprojAssemblyReference.cache
+C:\Users\tenk.jakub23\Desktop\v1\library_tenk\obj\Debug\library_tenk.Form1.resources
+C:\Users\tenk.jakub23\Desktop\v1\library_tenk\obj\Debug\library_tenk.Properties.Resources.resources
+C:\Users\tenk.jakub23\Desktop\v1\library_tenk\obj\Debug\library_tenk.csproj.GenerateResource.cache
+C:\Users\tenk.jakub23\Desktop\v1\library_tenk\obj\Debug\library_tenk.csproj.CoreCompileInputs.cache
+C:\Users\tenk.jakub23\Desktop\v1\library_tenk\obj\Debug\library_tenk.exe
+C:\Users\tenk.jakub23\Desktop\v1\library_tenk\obj\Debug\library_tenk.pdb
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\bin\Debug\library_tenk.exe.config
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\bin\Debug\library_tenk.exe
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\bin\Debug\library_tenk.pdb
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\obj\Debug\library_tenk.csproj.AssemblyReference.cache
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\obj\Debug\library_tenk.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\obj\Debug\library_tenk.Form1.resources
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\obj\Debug\library_tenk.Properties.Resources.resources
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\obj\Debug\library_tenk.csproj.GenerateResource.cache
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\obj\Debug\library_tenk.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\obj\Debug\library_tenk.exe
+C:\Users\jakub\Documents\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL9_Knihovna\v1\obj\Debug\library_tenk.pdb

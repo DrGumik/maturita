@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Basic Express 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "K8055Demo", "K8055Demo.vbproj", "{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Itanium = Debug|Itanium
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Itanium = Release|Itanium
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Debug|Itanium.Build.0 = Debug|Itanium
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Debug|x86.ActiveCfg = Debug|x86
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Debug|x86.Build.0 = Debug|x86
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Release|Itanium.ActiveCfg = Release|Itanium
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Release|Itanium.Build.0 = Release|Itanium
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Release|x86.ActiveCfg = Release|x86
+		{3615373E-3FB8-44DD-9A7E-823F1F3B81DC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.asm</FILE><LINE>23</LINE></start>
+  <get_key><FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.asm</FILE><LINE>116</LINE></get_key>
+  <init_usart><FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.asm</FILE><LINE>92</LINE></init_usart>
+  <init_timer0><FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.asm</FILE><LINE>109</LINE></init_timer0>
+  <main><FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.asm</FILE><LINE>49</LINE></main>
+  <delay><FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.asm</FILE><LINE>130</LINE></delay>
+  <compare_time><FILE>C:\Users\tenk.jakub23\Desktop\UL1_SerialLine_F\ASM-ATMega128-URAT1\SerialLine_Tenk.asm</FILE><LINE>132</LINE></compare_time>
+ </LABELS>
+</ASSEMBLER_INFO>

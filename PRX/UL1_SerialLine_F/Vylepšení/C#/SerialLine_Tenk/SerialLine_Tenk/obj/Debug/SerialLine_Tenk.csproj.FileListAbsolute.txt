@@ -1,0 +1,66 @@
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.exe.config
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.exe
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.pdb
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csprojAssemblyReference.cache
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.SerialLink_MainForm.resources
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.Properties.Resources.resources
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csproj.GenerateResource.cache
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.exe
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.pdb
+C:\Users\tenk.jakub23\Desktop\seriovy-displej\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.exe.config
+C:\Users\tenk.jakub23\Desktop\seriovy-displej\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.exe
+C:\Users\tenk.jakub23\Desktop\seriovy-displej\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.pdb
+C:\Users\tenk.jakub23\Desktop\seriovy-displej\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csprojAssemblyReference.cache
+C:\Users\tenk.jakub23\Desktop\seriovy-displej\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.SerialLink_MainForm.resources
+C:\Users\tenk.jakub23\Desktop\seriovy-displej\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.Properties.Resources.resources
+C:\Users\tenk.jakub23\Desktop\seriovy-displej\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csproj.GenerateResource.cache
+C:\Users\tenk.jakub23\Desktop\seriovy-displej\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csproj.CoreCompileInputs.cache
+C:\Users\tenk.jakub23\Desktop\seriovy-displej\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.exe
+C:\Users\tenk.jakub23\Desktop\seriovy-displej\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.pdb
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.exe.config
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.exe
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.pdb
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csprojAssemblyReference.cache
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.SerialLink_MainForm.resources
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.Properties.Resources.resources
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csproj.GenerateResource.cache
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.exe
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\F) UL1 - Sériová linka\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.pdb
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.exe.config
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.exe
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\SerialLine_Tenk.pdb
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csprojAssemblyReference.cache
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.SerialLink_MainForm.resources
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.Properties.Resources.resources
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csproj.GenerateResource.cache
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.exe
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.pdb
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\JDragControl.dll
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csproj.CopyComplete
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csprojAssemblyReference.cache
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.SerialLink_MainForm.resources
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.Properties.Resources.resources
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csproj.GenerateResource.cache
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\Ovládání sériové komunikace - Jakub Tenk.exe.config
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\Ovládání sériové komunikace - Jakub Tenk.exe
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\Ovládání sériové komunikace - Jakub Tenk.pdb
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\Ovládání sériové komunikace - Jakub Tenk.exe
+D:\Programovani\atmega-school\MIT - PRX\4. Ročník\UL1_SerialLine_F\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\Ovládání sériové komunikace - Jakub Tenk.pdb
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\Ovládání sériové komunikace - Jakub Tenk.exe.config
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\Ovládání sériové komunikace - Jakub Tenk.exe
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\Ovládání sériové komunikace - Jakub Tenk.pdb
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csprojAssemblyReference.cache
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.SerialLink_MainForm.resources
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.Properties.Resources.resources
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csproj.GenerateResource.cache
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\Ovládání sériové komunikace - Jakub Tenk.exe
+D:\Programovani\atmega-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\Ovládání sériové komunikace - Jakub Tenk.pdb
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\Ovládání sériové komunikace - Jakub Tenk.exe.config
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\Ovládání sériové komunikace - Jakub Tenk.exe
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\bin\Debug\Ovládání sériové komunikace - Jakub Tenk.pdb
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csprojAssemblyReference.cache
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.SerialLink_MainForm.resources
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.Properties.Resources.resources
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\SerialLine_Tenk.csproj.GenerateResource.cache
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\Ovládání sériové komunikace - Jakub Tenk.exe
+C:\Users\jakub\OneDrive\Dokumenty\GitHub\spscv-school\MIT - PRX - Programování\4. Ročník\UL1_SerialLine_F\Vylepšení\C#\SerialLine_Tenk\SerialLine_Tenk\obj\Debug\Ovládání sériové komunikace - Jakub Tenk.pdb
