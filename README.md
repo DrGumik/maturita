@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">SPŠ a VOŠ Chomutov - Maturitní praktická zkouška (Programování)</h1>
+  <h1 align="center">SPŠ a VOŠ Chomutov - Maturitní praktická zkouška</h1>
   
   <br />
 
@@ -17,31 +17,16 @@
 ## Seznam projektů
 <ol>
   <li>
-    Sériová linka (C# + ASM)
+    Automatizační cvičení (ACV)
   </li>
   <li>
-    Maticový displej (ASM)
+    Elektrotechnická měření (ELM)
   </li>
   <li>
-    Mikrovlnka (C - MSDOS)
+    Programování (PRX)
   </li>
   <li>
-    Piškvorky (C#)
-  </li>
-  <li>
-    Robot (C - MSDOS)
-  </li>
-  <li>
-    Výtah (C - MSDOS)
-  </li>
-   <li>
-    Alfanumerický displej (C - MSDOS)
-  </li>
-  <li>
-    Křižovatka (C#)
-  </li>
-  <li>
-    Knihovna (C#)
+    Taháky
   </li>
 </ol>
 
