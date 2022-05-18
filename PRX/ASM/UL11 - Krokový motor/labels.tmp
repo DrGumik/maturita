@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</FILE><LINE>36</LINE></start>
+  <direct><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</FILE><LINE>51</LINE></direct>
+  <rotateL><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</FILE><LINE>56</LINE></rotateL>
+  <rotateR><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</FILE><LINE>60</LINE></rotateR>
+  <tb_rotL><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</FILE><LINE>106</LINE></tb_rotL>
+  <process><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</FILE><LINE>65</LINE></process>
+  <tb_rotR><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</FILE><LINE>109</LINE></tb_rotR>
+  <delay><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</FILE><LINE>87</LINE></delay>
+  <set_timer><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</FILE><LINE>92</LINE></set_timer>
+  <compare><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul11_Tenk\uloha_11.asm</FILE><LINE>97</LINE></compare>
+ </LABELS>
+</ASSEMBLER_INFO>

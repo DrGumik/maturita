@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.asm</FILE><LINE>33</LINE></main>
+  <tb_dis_beg><FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.asm</FILE><LINE>63</LINE></tb_dis_beg>
+  <tb_dis_end><FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.asm</FILE><LINE>72</LINE></tb_dis_end>
+  <loop><FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.asm</FILE><LINE>38</LINE></loop>
+  <delay><FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.asm</FILE><LINE>49</LINE></delay>
+  <set_timer><FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.asm</FILE><LINE>51</LINE></set_timer>
+  <compare><FILE>C:\Users\Gumik\Documents\GitHub\mit_ul7_Tenk\A3-MiT-Tenk-Jakub-7\ul7_Tenk.asm</FILE><LINE>55</LINE></compare>
+ </LABELS>
+</ASSEMBLER_INFO>

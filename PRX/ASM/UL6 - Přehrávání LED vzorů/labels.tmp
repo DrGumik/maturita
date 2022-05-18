@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <tb_tlac><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>153</LINE></tb_tlac>
+  <load_tb><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>40</LINE></load_tb>
+  <main><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>46</LINE></main>
+  <loop><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>51</LINE></loop>
+  <output><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>66</LINE></output>
+  <delay><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>78</LINE></delay>
+  <set_timer><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>82</LINE></set_timer>
+  <compare><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>87</LINE></compare>
+  <beg_led1><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>99</LINE></beg_led1>
+  <end_led1><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>106</LINE></end_led1>
+  <beg_led2><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>108</LINE></beg_led2>
+  <end_led2><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>113</LINE></end_led2>
+  <beg_led3><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>115</LINE></beg_led3>
+  <end_led3><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>118</LINE></end_led3>
+  <beg_led4><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>120</LINE></beg_led4>
+  <end_led4><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>124</LINE></end_led4>
+  <beg_led5><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>126</LINE></beg_led5>
+  <end_led5><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>132</LINE></end_led5>
+  <beg_led6><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>134</LINE></beg_led6>
+  <end_led6><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>137</LINE></end_led6>
+  <beg_led7><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>139</LINE></beg_led7>
+  <end_led7><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>143</LINE></end_led7>
+  <beg_led8><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>145</LINE></beg_led8>
+  <end_led8><FILE>C:\Users\Gumik\Desktop\A3-MiT-Tenk-Jakub-6\ul6_Tenk.asm</FILE><LINE>151</LINE></end_led8>
+ </LABELS>
+</ASSEMBLER_INFO>

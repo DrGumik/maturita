@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <tb_sloupce_beg><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>97</LINE></tb_sloupce_beg>
+  <load_tb><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>45</LINE></load_tb>
+  <main><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>51</LINE></main>
+  <tb_key_beg><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>103</LINE></tb_key_beg>
+  <loop><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>59</LINE></loop>
+  <delay><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>83</LINE></delay>
+  <key_id><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>64</LINE></key_id>
+  <continue><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>71</LINE></continue>
+  <output><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>78</LINE></output>
+  <set_timer><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>85</LINE></set_timer>
+  <compare><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>89</LINE></compare>
+  <tb_sloupce_end><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>101</LINE></tb_sloupce_end>
+  <tb_key_end><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_klavesnice_Tenk\mit_klavesnice_Tenk.asm</FILE><LINE>107</LINE></tb_key_end>
+ </LABELS>
+</ASSEMBLER_INFO>

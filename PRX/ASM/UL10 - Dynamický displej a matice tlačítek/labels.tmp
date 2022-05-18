@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <tb_sloupce_end><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>148</LINE></tb_sloupce_end>
+  <tb_sloupce_beg><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>144</LINE></tb_sloupce_beg>
+  <load_tb><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>52</LINE></load_tb>
+  <main><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>58</LINE></main>
+  <tb_key_beg><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>150</LINE></tb_key_beg>
+  <loop><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>66</LINE></loop>
+  <delay><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>117</LINE></delay>
+  <key_id><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>71</LINE></key_id>
+  <continue><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>78</LINE></continue>
+  <output><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>105</LINE></output>
+  <delaydisp><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>130</LINE></delaydisp>
+  <set_timer><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>119</LINE></set_timer>
+  <compare><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>123</LINE></compare>
+  <set_timer_disp><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>132</LINE></set_timer_disp>
+  <comparedisp><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>136</LINE></comparedisp>
+  <tb_key_end><FILE>C:\Users\tenk.jakub23\Desktop\atmega-school-main\mit_ul10_Tenk\mit_ul10_Tenk.asm</FILE><LINE>154</LINE></tb_key_end>
+ </LABELS>
+</ASSEMBLER_INFO>

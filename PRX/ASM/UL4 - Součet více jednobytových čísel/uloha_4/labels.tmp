@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\jakub\OneDrive\Plocha\uloha_4_tenk</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\jakub\OneDrive\Plocha\uloha_4_tenk\uloha_4_tenk.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\jakub\OneDrive\Plocha\uloha_4_tenk\uloha_4_tenk.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\jakub\OneDrive\Plocha\uloha_4_tenk\uloha_4_tenk.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\jakub\OneDrive\Plocha\uloha_4_tenk\uloha_4_tenk.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <cislo><FILE>C:\Users\jakub\OneDrive\Plocha\uloha_4_tenk\uloha_4_tenk.asm</FILE><LINE>55</LINE></cislo>
+  <skok1><FILE>C:\Users\jakub\OneDrive\Plocha\uloha_4_tenk\uloha_4_tenk.asm</FILE><LINE>28</LINE></skok1>
+  <soucet><FILE>C:\Users\jakub\OneDrive\Plocha\uloha_4_tenk\uloha_4_tenk.asm</FILE><LINE>43</LINE></soucet>
+  <konec><FILE>C:\Users\jakub\OneDrive\Plocha\uloha_4_tenk\uloha_4_tenk.asm</FILE><LINE>56</LINE></konec>
+ </LABELS>
+</ASSEMBLER_INFO>

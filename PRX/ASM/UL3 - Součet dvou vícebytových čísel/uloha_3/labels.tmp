@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega128</DEVICE>
+ <WORKING_DIR>C:\Users\Gumik\Documents\uloha_3</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Gumik\Documents\uloha_3\uloha_3_soucet.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Gumik\Documents\uloha_3\uloha_3_soucet.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Gumik\Documents\uloha_3\uloha_3_soucet.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Gumik\Documents\uloha_3\uloha_3_soucet.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <cislo1><FILE>C:\Users\Gumik\Documents\uloha_3\uloha_3_soucet.asm</FILE><LINE>67</LINE></cislo1>
+  <skok1><FILE>C:\Users\Gumik\Documents\uloha_3\uloha_3_soucet.asm</FILE><LINE>21</LINE></skok1>
+  <cislo2><FILE>C:\Users\Gumik\Documents\uloha_3\uloha_3_soucet.asm</FILE><LINE>68</LINE></cislo2>
+  <skok2><FILE>C:\Users\Gumik\Documents\uloha_3\uloha_3_soucet.asm</FILE><LINE>36</LINE></skok2>
+  <soucet><FILE>C:\Users\Gumik\Documents\uloha_3\uloha_3_soucet.asm</FILE><LINE>55</LINE></soucet>
+  <konec><FILE>C:\Users\Gumik\Documents\uloha_3\uloha_3_soucet.asm</FILE><LINE>70</LINE></konec>
+ </LABELS>
+</ASSEMBLER_INFO>
