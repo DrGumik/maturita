@@ -20,13 +20,10 @@
     Automatizační cvičení (ACV)
   </li>
   <li>
-    Elektrotechnická měření (ELM)
+    Elektrotechnická měření (ELM) + taháky
   </li>
   <li>
     Programování (PRX)
-  </li>
-  <li>
-    Taháky
   </li>
 </ol>
 
