@@ -1,0 +1,261 @@
+#include <stdlib.h>
+#include <dos.h>
+#include <conio.h>
+#include <time.h>
+#include "BitLib.h"
+
+void out(unsigned char position, unsigned char value);
+void plus(int index);
+void minus(int index);
+void setPassword(void);
+void typePassword(void);
+void checkPassword(void);
+void showMode(int status, int pos);
+void showSet(int index);
+void notification(int x);
+void savePassword(void);
+void setValue(int index);
+void lock(void);
+
+/*
+*		0x300 out: 0-4 -> vybrané zobrazované znaky
+*		0x301 out: 0-3 -> vybraná pozice pro displej
+*			  out: 4, 5 -> zámek - elektromagnet + žárovka (mělo by být jedno co je co, aktivní jsou oba společně)
+*			   in: 6 -> detekce stisku tlačítka
+*		SET	- nastavit/potvrdit a posun na další	0
+*		\/	- -1									1
+*		/\	- +1									2
+*		MODE- nastavit předchozí číslo				3
+*
+*		Trezor jde zavřít pouze po znovu nastaveni hesla
+*/
+
+//zobrazovana hodnota na displeji
+unsigned char value[4] = { 0x00, 0x00, 0x00, 0x00 };
+//nastavitelné heslo, defaultně 0-0-0-0
+unsigned char password[4] = { 0x00, 0x00, 0x00, 0x00 };
+
+//zobrazovaní módu na displeji 
+unsigned char const MODE[3][4] = {  //MODE[0][] = uzamčen / MODE[1][] = odemčen 
+	{ 0x0C, 0x1B, 0x0D, 0x0E },     //CODE -> zadat heslo
+	{ 0x15, 0x0E, 0x19, 0x19 },		//New -> nastavit nové heslo
+	{ 0x0C, 0x13, 0x00, 0x05 }		//Close -> po nastaveni hesla - uzamknout
+};
+
+//zobrazení oznámení - pár sekund,
+unsigned char const NOTIF[4][4] = {
+	{ 0x10, 0x00, 0x00, 0x0D },		//Good
+	{ 0x0E, 0x17, 0x17, 0x1C },		//Err -> status 0 - špatné heslo
+	{ 0x00, 0x16, 0x0E, 0x15 },		//Open -> odemčení trezoru - správné heslo
+	{ 0x0C, 0x13, 0x05, 0x0E }		//Close
+};
+//hodnoty pro pozice displejů
+unsigned char const POSITION[4] = { 0xFE, 0xFD, 0xFB, 0xF7 };
+
+unsigned char input;
+unsigned char output1;		//paměť pro posilanou hodnotu na vystup
+unsigned char output2;		//paměť pro posilanou hodnotu na vystup
+
+int status;			//0=trezor uzamčen/1=odemčen
+int type = 0;		//0=zobrazovani "Code" nebo "new/1=zadavani hesla
+int setPos = 0;		//pozice nastavované hodnoty na displeji
+
+int main() {
+	while (1) {
+		switch (status)
+		{
+			//zadaní hesla -> otevřeni trezoru
+		case 0:
+			typePassword();
+			break;
+			// trezor otevřen -> možnost nastavit heslo
+		case 1:
+			setPassword();
+			break;
+		case 2:
+			lock();
+			break;
+		}
+	}
+}
+
+void typePassword(void) {
+	for (int i = 0; i < 4; i++) {
+		//zobrazování napisu "Code"
+		if (type == 0) {
+			showMode(0, i);
+		}
+
+		//zadavani hesla
+		else if (type == 1) {
+			showSet(i);
+			setValue(i);
+			if (setPos == 5) checkPassword();
+
+		}
+	}
+}
+
+void setPassword(void) {
+	for (int i = 0; i < 4; i++)
+	{
+		//zobrazovani napisu "NEW"
+		if (type == 0) {
+			showMode(1, i);
+		}
+		//nataveni hesla
+		else if (type == 1) {
+			showSet(i);
+			setValue(i);
+			if (setPos == 5) savePassword();
+		}
+	}
+}
+
+void lock(void) {
+	for (int i = 0; i < 4; i++) {
+		showMode(2, i);
+		input = inportB(0x301);
+		if (isBitSet(input, 6) == 0) { 
+			switch (i)
+			{
+			case 0:
+				notification(3);			//close
+				delay(5000);			//po nastaveni hesla - max 5 s na zavření trezoru
+				status = 0;
+				notification(0);			//GOOD
+				break;
+			case 3:
+				status = 1;				//zpět na nastaveni nového hesla
+				break;
+			default:					//tlačítka nahoru/dolu nefungují
+				break;
+			}
+		}
+	}
+}
+
+void checkPassword() {
+	type = 0;
+	setPos = 0;
+	int correct = 0;
+	for (int j = 0; j < 4; j++) {
+		if (password[j] == value[j]) {
+			correct++;
+		}
+	}
+	if (correct == 4) {
+		status = 1;		//status odemčen	
+		notification(0);	//"good"
+		notification(2);	//"open"
+	}
+	else {
+		for (int j = 0; j < 4; j++) {
+			value[j] = 0x00;
+		}
+		notification(1);	//"Err."
+	}
+}
+
+void savePassword(void) {
+	for (int j = 0; j < 4; j++) {
+		password[j] = value[j];
+	}
+	type = 0;
+	setPos = 0;
+	status = 2;
+	notification(0);
+}
+
+void out(unsigned char position, unsigned char value) {
+	output1 = value;
+	output2 = position;
+	if (status != 0) {		//odemknout
+		clearBit(output2, 4);
+		clearBit(output2, 5);
+	}
+	else {					//uzamknout
+		setBit(output2, 4);
+		setBit(output2, 5);
+	}
+
+	outportb(port1, output1);
+	outportb(port2, output2);
+	delay(1);	
+}
+
+void plus(int index) {
+	delay(500);			//zákmit + přičítání 2/s
+	(int)value[index]++;
+	if ((int)value[index] == 16) {
+		value[index] = 0;
+	}
+}
+void minus(int index) {
+	delay(500);			//zákmit + odečítání 2/s
+	(int)value[index]--;
+	if ((int)value[index] == 0xFF) {
+		value[index] = 0x0F;
+	}
+}
+
+void showMode(int status, int pos) {
+	value[pos] = MODE[status][pos];
+	out(POSITION[pos], value[pos]);
+
+	//po stisku libovolné klávesy -> zadavani hesla
+	input = inportB(0x301);
+
+	if (isBitSet(input, 6) == 0) {
+		type = 1;
+		//vynulovani hodnot na displeji
+		for (int j = 0; j < 4; j++)
+		{
+			value[j] = 0x00;
+		}
+	}
+}
+
+void showSet(int index) {
+	out(POSITION[index], value[index]);
+	if (index == setPos) {
+		//zobrazovani tečky u nastavované hodnoty
+		out(POSITION[index], 0x1C);
+	}
+}
+
+void setValue(int index) {
+	input = inportB(PORT2);
+	if (isBitSet(input, 6) == 0) { 
+		switch (index) {
+		case 0:
+			setPos++;
+			delay(100);
+			//po nastaveni všech 4 hodnot a stisku SET se zkontroluje heslo
+			break;
+		case 1:
+			minus(setPos);
+			break;
+		case 2:
+			plus(setPos);
+			break;
+		case 3:
+			if (setPos != 0) {
+				setPos--;
+				delay(100);
+			}
+			break;
+		}
+	}
+}
+
+void notification(int x) {			//k* 100 ms = 2 s
+	for (int k = 0; k < 20; k++){
+		for (int i = 0; i < 25; i++) {	//100 ms
+			for (int j = 0; j < 4; j++) {	//4 ms
+			out(j, NOTIF[x][j]);
+			}
+		}
+	}
+
+}
